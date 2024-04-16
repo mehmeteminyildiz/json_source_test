@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "title_en" : "First version is out!",
+    "title_tr" : "İlk versiyon yayında!",
+    "content_en": "Exciting news! The first version of our horoscope application is now live! With this application, you can follow your daily horoscopes and step into the world of astrology. In our first release, you will have the opportunity to discover the daily characteristics and general characteristics of each zodiac sign. Find out what your horoscope tells you with this application, which is a great starting point for astrology enthusiasts. Join this exciting journey and discover your zodiac signs!",
+    "content_tr": "Heyecan verici haber! Burç uygulamamızın ilk versiyonu artık yayında! Bu uygulama ile günlük burç yorumlarınızı takip edebilir, astroloji dünyasına adım atabilirsiniz. İlk sürümümüzde, her burcun günlük özelliklerini ve genel özelliklerini keşfetme fırsatı bulacaksınız. Astroloji meraklıları için harika bir başlangıç noktası olan bu uygulama ile burcunuzun size neler anlattığını öğrenin. Siz de bu heyecan verici yolculuğa katılın ve burçlarınızı keşfedin!",
+    "imageUrl": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?cs=srgb&dl=pexels-wendy-wei-1190298.jpg&fm=jpg",
+    "isActive": true
+}
