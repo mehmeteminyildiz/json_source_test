@@ -5,5 +5,5 @@
     "changes_as_html_en": "<ul><li>Premium feature added.</li><li>Design improvements implemented.</li><li>Bugs fixed.</li></ul>",
     "changes_as_html_tr": "<ul><li>Premium olma özelliği eklendi.</li><li>Tasarımsal iyileştirmeler yapıldı.</li><li>Hatalar giderildi.</li></ul>",
     "isRequired": true,
-    "version_code" : 2
+    "version_code" : 1
 }
