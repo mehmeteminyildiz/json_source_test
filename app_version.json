@@ -1,9 +1,9 @@
 {
     "id": 1,
-    "description_as_html_en" : "Our astrology app has received an exciting update! Introducing <strong>premium subscription</strong>, granting you access to even more features and content. With premium subscription, you can delve deeper into your daily horoscope readings, unlock exclusive astrology insights, and gain access to additional information about your zodiac sign. Start your premium subscription now to elevate your astrology experience to the next level!",
-    "description_as_html_tr" : "Burç uygulamamıza heyecan verici bir güncelleme geldi! Artık <strong>premium abonelik</strong> ile daha fazla özellik ve içeriğe erişebilirsiniz. Premium abonelik ile günlük burç yorumlarınızı derinlemesine analiz edebilir, özel astroloji içeriklerine erişebilir ve burcunuzla ilgili daha fazla bilgiye ulaşabilirsiniz. Bu yeniliklerden yararlanmak için hemen <strong>premium aboneliğinizi başlatın</strong> ve astroloji deneyiminizi bir üst seviyeye taşıyın!",
-    "changes_as_html_en": "<ul><li>Premium feature added.</li><li>Design improvements implemented.</li><li>Bugs fixed.</li></ul>",
-    "changes_as_html_tr": "<ul><li>Premium olma özelliği eklendi.</li><li>Tasarımsal iyileştirmeler yapıldı.</li><li>Hatalar giderildi.</li></ul>",
-    "isRequired": false,
-    "version_code" : 1
+    "description_as_html_en" : "Technical improvements implemented",
+    "description_as_html_tr" : "Teknik iyileştirmeler uygulandı",
+    "changes_as_html_en": "<ul><li>Improvements related to advertisements were made.</li><li>Security-related improvements were made.</li><li>Bugs were fixed.</li></ul>",
+    "changes_as_html_tr": "<ul><li>Reklamlarla ilgili geliştirmeler yapıldı.</li><li>Güvenlik ile ilgili geliştirmeler yapıldı.</li><li>Hatalar giderildi.</li></ul>",
+    "isRequired": true,
+    "version_code" : 2
 }
