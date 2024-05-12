@@ -1,36 +1,34 @@
-{
-  "faq": [
-    {
-      "question": "Burç & Astroloji nedir",
-      "answer": "Burç & Astroloji'de günlük burç yorumlarınızı okuyabilir, burçların özelliklerini inceleyebilir, burçlar arası uyumları hesaplayabilir, burç dünyasından eğlenceli içerikler okuyabilir ve çocuk isim önerilerine bakabilirsiniz."
-    },
-    {
-      "question": "Herhangi bir ücret ödemem gerekiyor mu?",
-      "answer": "Hayır, Burç & Astroloji uygulamasını ücretsiz olarak kullanabilirsiniz. Reklamsız deneyim elde etmek isterseniz Premium ekranında sunulan planlardan birini seçerek reklamsız kullanmaya başlayabilirsiniz"
-    },
-    {
-      "question": "Premium aldım, ancak iptal etmek istiyorum, ne yapmalıyım?",
-      "answer": "Ödeme sistemi Google tarafından yönetilmektedir. Google Play üzerinden aboneliklerinizi yönetebilir, dilerseniz iptal edebilirsiniz."
-    },
-    {
-      "question": "İçerikleri paylaşmak istiyorum, nasıl yapabilirim?",
-      "answer": "Paylaşılabilir içerikler için çeşitli paylaş butonları mevcut. Onlara tıklayarak dilediğiniz şekilde paylaşabilirsiniz."
-    },
-    {
-      "question": "Burç uyumu nedir?",
-      "answer": "Burç uyumu; burçlara sahip insanları, burçlarının karakteristik özelliklerine göre ilişkilerinin seyri hakkında bir tahminde bulunmaktadır. Uyum tamamen kişiseldir, gerçeği yansıtmayabilir."
-    },
-    {
-      "question": "Çok fazla reklam var.",
-      "answer": "Kaliteli ve bu kalitede devam eden bir uygulama geliştirebilmemiz için reklama ihtiyacımız var. Premium üyelik satın alarak reklamsız bir deneyim elde edebilirsiniz."
-    },
-    {
-      "question": "Kişisel verilerimi ne yapıyorsunuz?",
-      "answer": "Burç & Astroloji, uygulamada girdiğiniz özellik bilgileri dışında bir kişisel bilgi almamaktadır. Hiçbir şekilde kimlik bilgilerinizi almıyoruz."
-    },
-    {
-      "question": "Yardıma ihtiyacım var.",
-      "answer": "Ayarlar bölümünde bulunan Bize Yazın kısmından bize e-mail yolu ile ulaşabilirsiniz."
-    }
-  ]
-}
+[
+  {
+    "question": "Burç & Astroloji nedir",
+    "answer": "Burç & Astroloji'de günlük burç yorumlarınızı okuyabilir, burçların özelliklerini inceleyebilir, burçlar arası uyumları hesaplayabilir, burç dünyasından eğlenceli içerikler okuyabilir ve çocuk isim önerilerine bakabilirsiniz."
+  },
+  {
+    "question": "Herhangi bir ücret ödemem gerekiyor mu?",
+    "answer": "Hayır, Burç & Astroloji uygulamasını ücretsiz olarak kullanabilirsiniz. Reklamsız deneyim elde etmek isterseniz Premium ekranında sunulan planlardan birini seçerek reklamsız kullanmaya başlayabilirsiniz"
+  },
+  {
+    "question": "Premium aldım, ancak iptal etmek istiyorum, ne yapmalıyım?",
+    "answer": "Ödeme sistemi Google tarafından yönetilmektedir. Google Play üzerinden aboneliklerinizi yönetebilir, dilerseniz iptal edebilirsiniz."
+  },
+  {
+    "question": "İçerikleri paylaşmak istiyorum, nasıl yapabilirim?",
+    "answer": "Paylaşılabilir içerikler için çeşitli paylaş butonları mevcut. Onlara tıklayarak dilediğiniz şekilde paylaşabilirsiniz."
+  },
+  {
+    "question": "Burç uyumu nedir?",
+    "answer": "Burç uyumu; burçlara sahip insanları, burçlarının karakteristik özelliklerine göre ilişkilerinin seyri hakkında bir tahminde bulunmaktadır. Uyum tamamen kişiseldir, gerçeği yansıtmayabilir."
+  },
+  {
+    "question": "Çok fazla reklam var.",
+    "answer": "Kaliteli ve bu kalitede devam eden bir uygulama geliştirebilmemiz için reklama ihtiyacımız var. Premium üyelik satın alarak reklamsız bir deneyim elde edebilirsiniz."
+  },
+  {
+    "question": "Kişisel verilerimi ne yapıyorsunuz?",
+    "answer": "Burç & Astroloji, uygulamada girdiğiniz özellik bilgileri dışında bir kişisel bilgi almamaktadır. Hiçbir şekilde kimlik bilgilerinizi almıyoruz."
+  },
+  {
+    "question": "Yardıma ihtiyacım var.",
+    "answer": "Ayarlar bölümünde bulunan Bize Yazın kısmından bize e-mail yolu ile ulaşabilirsiniz."
+  }
+]
