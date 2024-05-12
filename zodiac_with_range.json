@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Capricorn",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_capricorn.png",
+    "range": "December 22 - January 20"
+  },
+  {
+    "id": 2,
+    "name": "Aquarius",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_aquarius.png",
+    "range": "January 21 - February 18"
+  },
+  {
+    "id": 3,
+    "name": "Pisces",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_pisces.png",
+    "range": "February 19 - March 20"
+  },
+  {
+    "id": 4,
+    "name": "Aries",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_aries.png",
+    "range": "March 21 - April 20"
+  },
+  {
+    "id": 5,
+    "name": "Taurus",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_taurus.png",
+    "range": "April 21 - May 20"
+  },
+  {
+    "id": 6,
+    "name": "Gemini",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_gemini.png",
+    "range": "May 21 - June 21"
+  },
+  {
+    "id": 7,
+    "name": "Cancer",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_cancer.png",
+    "range": "June 22 - July 22"
+  },
+  {
+    "id": 8,
+    "name": "Leo",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_leo.png",
+    "range": "July 23 - August 22"
+  },
+  {
+    "id": 9,
+    "name": "Virgo",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_virgo.png",
+    "range": "August 23 - September 22"
+  },
+  {
+    "id": 10,
+    "name": "Libra",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_libra.png",
+    "range": "September 23 - October 23"
+  },
+  {
+    "id": 11,
+    "name": "Scorpio",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_scorpio.png",
+    "range": "October 24 - November 22"
+  },
+  {
+    "id": 12,
+    "name": "Sagittarius",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_sagittarius.png",
+    "range": "November 23 - December 21"
+  }
+]

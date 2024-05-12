@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Oğlak",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_capricorn.png",
+    "range": "22 Aralık - 20 Ocak"
+  },
+  {
+    "id": 2,
+    "name": "Kova",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_aquarius.png",
+    "range": "21 Ocak - 18 Şubat"
+  },
+  {
+    "id": 3,
+    "name": "Balık",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_pisces.png",
+    "range": "19 Şubat - 20 Mart"
+  },
+  {
+    "id": 4,
+    "name": "Koç",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_aries.png",
+    "range": "21 Mart - 20 Nisan"
+  },
+  {
+    "id": 5,
+    "name": "Boğa",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_taurus.png",
+    "range": "21 Nisan - 20 Mayıs"
+  },
+  {
+    "id": 6,
+    "name": "İkizler",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_gemini.png",
+    "range": "21 Mayıs - 21 Haziran"
+  },
+  {
+    "id": 7,
+    "name": "Yengeç",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_cancer.png",
+    "range": "22 Haziran - 22 Temmuz"
+  },
+  {
+    "id": 8,
+    "name": "Aslan",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_leo.png",
+    "range": "23 Temmuz - 22 Ağustos"
+  },
+  {
+    "id": 9,
+    "name": "Başak",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_virgo.png",
+    "range": "23 Ağustos - 22 Eylül"
+  },
+  {
+    "id": 10,
+    "name": "Terazi",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_libra.png",
+    "range": "23 Eylül - 23 Ekim"
+  },
+  {
+    "id": 11,
+    "name": "Akrep",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_scorpio.png",
+    "range": "24 Ekim - 22 Kasım"
+  },
+  {
+    "id": 12,
+    "name": "Yay",
+    "imageUrl": "https://raw.githubusercontent.com/mehmeteminyildiz/json_source_test/main/zodiac_images/zs_sagittarius.png",
+    "range": "23 Kasım - 21 Aralık"
+  }
+]
