@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "question": "What is Horoscope & Astrology?",
+      "answer": "In Horoscope & Astrology, you can read your daily horoscopes, explore the characteristics of zodiac signs, calculate compatibility between signs, read entertaining content from the world of astrology, and look at suggestions for baby names."
+    },
+    {
+      "question": "Do I need to pay any fees?",
+      "answer": "No, you can use the Horoscope & Astrology application for free. If you want to have an ad-free experience, you can choose one of the plans offered on the Premium screen to start using it without ads."
+    },
+    {
+      "question": "I purchased Premium, but I want to cancel it, what should I do?",
+      "answer": "The payment system is managed by Google. You can manage your subscriptions via Google Play and cancel them if you wish."
+    },
+    {
+      "question": "How can I share the content?",
+      "answer": "There are various share buttons available for shareable content. You can click on them and share as you wish."
+    },
+    {
+      "question": "What is Zodiac compatibility?",
+      "answer": "Zodiac compatibility attempts to predict the course of relationships between individuals based on the characteristic traits of their zodiac signs. Compatibility is entirely subjective and may not reflect reality."
+    },
+    {
+      "question": "There are too many ads.",
+      "answer": "We need ads to develop and maintain a high-quality application. You can obtain an ad-free experience by purchasing a Premium membership."
+    },
+    {
+      "question": "What do you do with my personal data?",
+      "answer": "Horoscope & Astrology does not collect any personal information other than the feature information you enter in the application. We do not collect any identification information."
+    },
+    {
+      "question": "I need help.",
+      "answer": "You can reach us via email through the Contact Us section in the Settings."
+    }
+  ]
+}
