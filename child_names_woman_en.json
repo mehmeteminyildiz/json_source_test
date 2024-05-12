@@ -1,258 +1,252 @@
-{
-  "woman": [
-    [
-      {
-        "id": 1,
-        "name": "Ava",
-        "mean": "A Latin name meaning 'bird'. It symbolizes freedom and perspective."
-      },
-      {
-        "id": 2,
-        "name": "Bella",
-        "mean": "Of Italian origin meaning 'beautiful'. Represents beauty and charm."
-      },
-      {
-        "id": 3,
-        "name": "Chloe",
-        "mean": "Greek origin meaning 'blooming' or 'fertility'. It symbolizes new beginnings and growth."
-      },
-      {
-        "id": 4,
-        "name": "Daisy",
-        "mean": "Derived from the name of the flower, which symbolizes purity and innocence."
-      },
-      {
-        "id": 5,
-        "name": "Ella",
-        "mean": "Short form of Eleanor or Ellen, meaning 'light' or 'beautiful fairy woman'. It represents brightness and allure."
-      },
-      {
-        "id": 6,
-        "name": "Fiona",
-        "mean": "Of Gaelic origin meaning 'white' or 'fair'. Represents purity and fairness."
-      },
-      {
-        "id": 7,
-        "name": "Grace",
-        "mean": "Latin origin meaning 'graciousness' or 'charm'. It symbolizes elegance and dignity."
-      },
-      {
-        "id": 8,
-        "name": "Hazel",
-        "mean": "Named after the hazel tree; symbolizes wisdom and protection."
-      },
-      {
-        "id": 9,
-        "name": "Isla",
-        "mean": "Of Scottish origin, named after the island of Islay. It symbolizes nature and beauty."
-      },
-      {
-        "id": 10,
-        "name": "Julia",
-        "mean": "Latin for 'youthful'. It connotes youth, energy, and vitality."
-      },
-      {
-        "id": 11,
-        "name": "Kara",
-        "mean": "Means 'friend' in Turkish and 'beloved' in Italian. It symbolizes love and friendship."
-      },
-      {
-        "id": 12,
-        "name": "Luna",
-        "mean": "Latin for 'moon', representing mystery and the feminine power."
-      },
-      {
-        "id": 13,
-        "name": "Mia",
-        "mean": "Of Italian and Spanish origin meaning 'mine'. It symbolizes possession and importance."
-      },
-      {
-        "id": 14,
-        "name": "Nora",
-        "mean": "Short form of Honora or Eleanora, meaning 'honor'. It represents dignity and respect."
-      },
-      {
-        "id": 15,
-        "name": "Olivia",
-        "mean": "Derived from olive or olive tree. Symbolizes peace and fruitfulness."
-      },
-      {
-        "id": 16,
-        "name": "Penelope",
-        "mean": "Of Greek origin meaning 'weaver'. It symbolizes patience and fidelity."
-      },
-      {
-        "id": 17,
-        "name": "Quinn",
-        "mean": "Of Irish origin meaning 'wise' or 'counsel'. It symbolizes intelligence and wisdom."
-      },
-      {
-        "id": 18,
-        "name": "Ruby",
-        "mean": "Named after the red gemstone, symbolizing love and vitality."
-      },
-      {
-        "id": 19,
-        "name": "Sophia",
-        "mean": "Greek for 'wisdom'. It connotes intelligence, sophistication, and knowledge."
-      },
-      {
-        "id": 20,
-        "name": "Tessa",
-        "mean": "Short form of Theresa, meaning 'to reap', 'to gather'. It represents abundance and bounty."
-      },
-      {
-        "id": 21,
-        "name": "Uma",
-        "mean": "Of Sanskrit origin meaning 'light', 'tranquility', 'splendor'. It symbolizes peace and beauty."
-      },
-      {
-        "id": 22,
-        "name": "Violet",
-        "mean": "Named after the flower, symbolizing modesty, virtue, and affection."
-      },
-      {
-        "id": 23,
-        "name": "Willow",
-        "mean": "Named after the willow tree, symbolizing grace and flexibility."
-      },
-      {
-        "id": 24,
-        "name": "Xenia",
-        "mean": "Of Greek origin meaning 'hospitality'. It symbolizes welcoming and generosity."
-      },
-      {
-        "id": 25,
-        "name": "Yara",
-        "mean": "Of Arabic and Brazilian origin meaning 'small butterfly' and 'water lady'. It represents transformation and fluidity."
-      },
-      {
-        "id": 26,
-        "name": "Zoe",
-        "mean": "Greek for 'life'. It represents vitality and energy."
-      },
-      {
-        "id": 27,
-        "name": "Audrey",
-        "mean": "Old English origin meaning 'noble strength'. It symbolizes power and nobility."
-      },
-      {
-        "id": 28,
-        "name": "Brooke",
-        "mean": "Named after a small, natural stream. It symbolizes calmness and flow."
-      },
-      {
-        "id": 29,
-        "name": "Cecilia",
-        "mean": "Latin origin meaning 'blind'. Historically represents musical talents and saintly faith."
-      },
-      {
-        "id": 30,
-        "name": "Delilah",
-        "mean": "Of Hebrew origin meaning 'delicate'. It has connotations of allure and mystery."
-      },
-      {
-        "id": 31,
-        "name": "Eleanor",
-        "mean": "Of Greek origin meaning 'shining light' or 'sun ray'. It symbolizes brightness and leadership."
-      },
-      {
-        "id": 32,
-        "name": "Faith",
-        "mean": "English origin meaning 'trust', 'belief'. It symbolizes strong conviction and spirituality."
-      },
-      {
-        "id": 33,
-        "name": "Genevieve",
-        "mean": "Of Germanic origin meaning 'woman of the family' or 'tribe woman'. It represents heritage and strength."
-      },
-      {
-        "id": 34,
-        "name": "Harper",
-        "mean": "Originally an English surname for someone who plays the harp. It symbolizes creativity and musical talent."
-      },
-      {
-        "id": 35,
-        "name": "Ivy",
-        "mean": "Named after the ivy plant, symbolizing fidelity and eternity."
-      },
-      {
-        "id": 36,
-        "name": "Josephine",
-        "mean": "French form of Joseph, meaning 'Jehovah increases'. It symbolizes growth and prosperity."
-      },
-      {
-        "id": 37,
-        "name": "Kiara",
-        "mean": "Italian origin meaning 'clear', 'bright', 'famous'. It represents clarity and radiance."
-      },
-      {
-        "id": 38,
-        "name": "Leah",
-        "mean": "Hebrew origin meaning 'weary' but traditionally symbolizes devotion and virtue."
-      },
-      {
-        "id": 39,
-        "name": "Madeline",
-        "mean": "Of English origin, derived from Magdalene, meaning 'woman from Magdala'. It represents strength and honor."
-      },
-      {
-        "id": 40,
-        "name": "Natalie",
-        "mean": "Of Latin origin meaning 'born on Christmas'. It symbolizes joy and celebration."
-      },
-      {
-        "id": 41,
-        "name": "Ophelia",
-        "mean": "Greek origin meaning 'help'. Famous from Shakespeare's 'Hamlet', it represents sensitivity and tragic beauty."
-      },
-      {
-        "id": 42,
-        "name": "Piper",
-        "mean": "Originally an English surname for someone who played the pipes. It represents joyfulness and musicality."
-      },
-      {
-        "id": 43,
-        "name": "Quincy",
-        "mean": "Of French origin, meaning 'estate of the fifth son'. Represents inheritance and tradition."
-      },
-      {
-        "id": 44,
-        "name": "Rosalie",
-        "mean": "French origin, meaning 'rose'. Symbolizes love, beauty, and tenderness."
-      },
-      {
-        "id": 45,
-        "name": "Serena",
-        "mean": "Latin for 'calm', 'peaceful'. It represents tranquility and harmony."
-      },
-      {
-        "id": 46,
-        "name": "Trinity",
-        "mean": "Latin for 'triad'. Represents the union of mind, body, and spirit."
-      },
-      {
-        "id": 47,
-        "name": "Ursula",
-        "mean": "Latin for 'little bear'. It symbolizes strength and endurance."
-      },
-      {
-        "id": 48,
-        "name": "Veronica",
-        "mean": "Of Latin origin meaning 'true image', 'victory bringer'. It symbolizes honesty and triumph."
-      },
-      {
-        "id": 49,
-        "name": "Wendy",
-        "mean": "Invented for the book 'Peter Pan', possibly derived from Welsh meaning 'fair and blessed'. It represents youthfulness and fantasy."
-      },
-      {
-        "id": 50,
-        "name": "Xiomara",
-        "mean": "Of Spanish origin meaning 'ready for battle'. It represents strength and readiness."
-      }
-    ]
-  ]
-}
-
-
+[
+  {
+    "id": 1,
+    "name": "Ava",
+    "mean": "A Latin name meaning 'bird'. It symbolizes freedom and perspective."
+  },
+  {
+    "id": 2,
+    "name": "Bella",
+    "mean": "Of Italian origin meaning 'beautiful'. Represents beauty and charm."
+  },
+  {
+    "id": 3,
+    "name": "Chloe",
+    "mean": "Greek origin meaning 'blooming' or 'fertility'. It symbolizes new beginnings and growth."
+  },
+  {
+    "id": 4,
+    "name": "Daisy",
+    "mean": "Derived from the name of the flower, which symbolizes purity and innocence."
+  },
+  {
+    "id": 5,
+    "name": "Ella",
+    "mean": "Short form of Eleanor or Ellen, meaning 'light' or 'beautiful fairy woman'. It represents brightness and allure."
+  },
+  {
+    "id": 6,
+    "name": "Fiona",
+    "mean": "Of Gaelic origin meaning 'white' or 'fair'. Represents purity and fairness."
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "mean": "Latin origin meaning 'graciousness' or 'charm'. It symbolizes elegance and dignity."
+  },
+  {
+    "id": 8,
+    "name": "Hazel",
+    "mean": "Named after the hazel tree; symbolizes wisdom and protection."
+  },
+  {
+    "id": 9,
+    "name": "Isla",
+    "mean": "Of Scottish origin, named after the island of Islay. It symbolizes nature and beauty."
+  },
+  {
+    "id": 10,
+    "name": "Julia",
+    "mean": "Latin for 'youthful'. It connotes youth, energy, and vitality."
+  },
+  {
+    "id": 11,
+    "name": "Kara",
+    "mean": "Means 'friend' in Turkish and 'beloved' in Italian. It symbolizes love and friendship."
+  },
+  {
+    "id": 12,
+    "name": "Luna",
+    "mean": "Latin for 'moon', representing mystery and the feminine power."
+  },
+  {
+    "id": 13,
+    "name": "Mia",
+    "mean": "Of Italian and Spanish origin meaning 'mine'. It symbolizes possession and importance."
+  },
+  {
+    "id": 14,
+    "name": "Nora",
+    "mean": "Short form of Honora or Eleanora, meaning 'honor'. It represents dignity and respect."
+  },
+  {
+    "id": 15,
+    "name": "Olivia",
+    "mean": "Derived from olive or olive tree. Symbolizes peace and fruitfulness."
+  },
+  {
+    "id": 16,
+    "name": "Penelope",
+    "mean": "Of Greek origin meaning 'weaver'. It symbolizes patience and fidelity."
+  },
+  {
+    "id": 17,
+    "name": "Quinn",
+    "mean": "Of Irish origin meaning 'wise' or 'counsel'. It symbolizes intelligence and wisdom."
+  },
+  {
+    "id": 18,
+    "name": "Ruby",
+    "mean": "Named after the red gemstone, symbolizing love and vitality."
+  },
+  {
+    "id": 19,
+    "name": "Sophia",
+    "mean": "Greek for 'wisdom'. It connotes intelligence, sophistication, and knowledge."
+  },
+  {
+    "id": 20,
+    "name": "Tessa",
+    "mean": "Short form of Theresa, meaning 'to reap', 'to gather'. It represents abundance and bounty."
+  },
+  {
+    "id": 21,
+    "name": "Uma",
+    "mean": "Of Sanskrit origin meaning 'light', 'tranquility', 'splendor'. It symbolizes peace and beauty."
+  },
+  {
+    "id": 22,
+    "name": "Violet",
+    "mean": "Named after the flower, symbolizing modesty, virtue, and affection."
+  },
+  {
+    "id": 23,
+    "name": "Willow",
+    "mean": "Named after the willow tree, symbolizing grace and flexibility."
+  },
+  {
+    "id": 24,
+    "name": "Xenia",
+    "mean": "Of Greek origin meaning 'hospitality'. It symbolizes welcoming and generosity."
+  },
+  {
+    "id": 25,
+    "name": "Yara",
+    "mean": "Of Arabic and Brazilian origin meaning 'small butterfly' and 'water lady'. It represents transformation and fluidity."
+  },
+  {
+    "id": 26,
+    "name": "Zoe",
+    "mean": "Greek for 'life'. It represents vitality and energy."
+  },
+  {
+    "id": 27,
+    "name": "Audrey",
+    "mean": "Old English origin meaning 'noble strength'. It symbolizes power and nobility."
+  },
+  {
+    "id": 28,
+    "name": "Brooke",
+    "mean": "Named after a small, natural stream. It symbolizes calmness and flow."
+  },
+  {
+    "id": 29,
+    "name": "Cecilia",
+    "mean": "Latin origin meaning 'blind'. Historically represents musical talents and saintly faith."
+  },
+  {
+    "id": 30,
+    "name": "Delilah",
+    "mean": "Of Hebrew origin meaning 'delicate'. It has connotations of allure and mystery."
+  },
+  {
+    "id": 31,
+    "name": "Eleanor",
+    "mean": "Of Greek origin meaning 'shining light' or 'sun ray'. It symbolizes brightness and leadership."
+  },
+  {
+    "id": 32,
+    "name": "Faith",
+    "mean": "English origin meaning 'trust', 'belief'. It symbolizes strong conviction and spirituality."
+  },
+  {
+    "id": 33,
+    "name": "Genevieve",
+    "mean": "Of Germanic origin meaning 'woman of the family' or 'tribe woman'. It represents heritage and strength."
+  },
+  {
+    "id": 34,
+    "name": "Harper",
+    "mean": "Originally an English surname for someone who plays the harp. It symbolizes creativity and musical talent."
+  },
+  {
+    "id": 35,
+    "name": "Ivy",
+    "mean": "Named after the ivy plant, symbolizing fidelity and eternity."
+  },
+  {
+    "id": 36,
+    "name": "Josephine",
+    "mean": "French form of Joseph, meaning 'Jehovah increases'. It symbolizes growth and prosperity."
+  },
+  {
+    "id": 37,
+    "name": "Kiara",
+    "mean": "Italian origin meaning 'clear', 'bright', 'famous'. It represents clarity and radiance."
+  },
+  {
+    "id": 38,
+    "name": "Leah",
+    "mean": "Hebrew origin meaning 'weary' but traditionally symbolizes devotion and virtue."
+  },
+  {
+    "id": 39,
+    "name": "Madeline",
+    "mean": "Of English origin, derived from Magdalene, meaning 'woman from Magdala'. It represents strength and honor."
+  },
+  {
+    "id": 40,
+    "name": "Natalie",
+    "mean": "Of Latin origin meaning 'born on Christmas'. It symbolizes joy and celebration."
+  },
+  {
+    "id": 41,
+    "name": "Ophelia",
+    "mean": "Greek origin meaning 'help'. Famous from Shakespeare's 'Hamlet', it represents sensitivity and tragic beauty."
+  },
+  {
+    "id": 42,
+    "name": "Piper",
+    "mean": "Originally an English surname for someone who played the pipes. It represents joyfulness and musicality."
+  },
+  {
+    "id": 43,
+    "name": "Quincy",
+    "mean": "Of French origin, meaning 'estate of the fifth son'. Represents inheritance and tradition."
+  },
+  {
+    "id": 44,
+    "name": "Rosalie",
+    "mean": "French origin, meaning 'rose'. Symbolizes love, beauty, and tenderness."
+  },
+  {
+    "id": 45,
+    "name": "Serena",
+    "mean": "Latin for 'calm', 'peaceful'. It represents tranquility and harmony."
+  },
+  {
+    "id": 46,
+    "name": "Trinity",
+    "mean": "Latin for 'triad'. Represents the union of mind, body, and spirit."
+  },
+  {
+    "id": 47,
+    "name": "Ursula",
+    "mean": "Latin for 'little bear'. It symbolizes strength and endurance."
+  },
+  {
+    "id": 48,
+    "name": "Veronica",
+    "mean": "Of Latin origin meaning 'true image', 'victory bringer'. It symbolizes honesty and triumph."
+  },
+  {
+    "id": 49,
+    "name": "Wendy",
+    "mean": "Invented for the book 'Peter Pan', possibly derived from Welsh meaning 'fair and blessed'. It represents youthfulness and fantasy."
+  },
+  {
+    "id": 50,
+    "name": "Xiomara",
+    "mean": "Of Spanish origin meaning 'ready for battle'. It represents strength and readiness."
+  }
+]
