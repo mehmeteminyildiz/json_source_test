@@ -1,0 +1,258 @@
+{
+  "man": [
+    [
+      {
+        "id": 1,
+        "name": "Ahmet",
+        "mean": "Arap kökenli bir isim olup 'övülmüş, hamd edilmiş' anlamına gelir. Manevi özellikleri temsil eder."
+      },
+      {
+        "id": 2,
+        "name": "Mehmet",
+        "mean": "Ahmet ismiyle aynı kökten gelir ve 'övülmüş' anlamına gelir, çok sevilen ve saygı duyulan bir kişiliği işaret eder."
+      },
+      {
+        "id": 3,
+        "name": "Emre",
+        "mean": "Eski Türkçe kökenli olup 'dost, arkadaş' anlamına gelir. Sıcakkanlı ve dostane ilişkileri simgeler."
+      },
+      {
+        "id": 4,
+        "name": "Can",
+        "mean": "Farsça kökenli olup 'hayat, ruh, sevgili' anlamına gelir ve hayati enerjiyi temsil eder."
+      },
+      {
+        "id": 5,
+        "name": "Deniz",
+        "mean": "Türkçe kökenli olup geniş, engin anlamına gelir. Özgürlük ve sınırsızlığı ifade eder."
+      },
+      {
+        "id": 6,
+        "name": "Kaan",
+        "mean": "Eski Türk kökenli bir isim olup 'hükümdar, lider' anlamına gelir ve liderlik vasıflarını temsil eder."
+      },
+      {
+        "id": 7,
+        "name": "Baran",
+        "mean": "Farsça kökenli olup 'yağmur' anlamına gelir ve bereketi ve yenilenmeyi simgeler."
+      },
+      {
+        "id": 8,
+        "name": "Ali",
+        "mean": "Arapça kökenli olup 'yüce, ulu' anlamına gelir. Güç ve otoriteyi temsil eder."
+      },
+      {
+        "id": 9,
+        "name": "Cem",
+        "mean": "Farsça kökenli olup 'hükümdar, lider' anlamına gelir. Otorite ve liderlik özelliklerini simgeler."
+      },
+      {
+        "id": 10,
+        "name": "Efe",
+        "mean": "Türkçe kökenli olup 'bey, aga, lider' anlamına gelir ve cesur ve saygın bir karakteri işaret eder."
+      },
+      {
+        "id": 11,
+        "name": "Fırat",
+        "mean": "Arapça kökenli olup 'büyük ve geniş nehir' anlamına gelir. Güç ve enginlik temalarını temsil eder."
+      },
+      {
+        "id": 12,
+        "name": "Gökhan",
+        "mean": "Türk kökenli olup 'gökyüzü hükümdarı' anlamına gelir. Üstünlük ve geniş vizyonu simgeler."
+      },
+      {
+        "id": 13,
+        "name": "Hakan",
+        "mean": "Türk kökenli olup 'imparator, hükümdar' anlamına gelir ve güçlü liderliği temsil eder."
+      },
+      {
+        "id": 14,
+        "name": "İbrahim",
+        "mean": "Arapça kökenli olup 'baba olan', 'çok babalı' anlamına gelir. Koruyuculuk ve rehberlik özelliklerini işaret eder."
+      },
+      {
+        "id": 15,
+        "name": "Kerem",
+        "mean": "Arapça kökenli olup 'cömert, kerim' anlamına gelir. Cömertlik ve asaleti temsil eder."
+      },
+      {
+        "id": 16,
+        "name": "Levent",
+        "mean": "Türkçe kökenli olup 'denizci' anlamına gelir ve maceracılığı, cesareti ifade eder."
+      },
+      {
+        "id": 17,
+        "name": "Murat",
+        "mean": "Arapça kökenli olup 'arzu edilen, istenen' anlamına gelir. Hedeflerine ulaşma kararlılığını simgeler."
+      },
+      {
+        "id": 18,
+        "name": "Orhan",
+        "mean": "Türk kökenli olup 'şehir kurucu, hükümdar' anlamına gelir. Yaratıcılığı ve liderliği simgeler."
+      },
+      {
+        "id": 19,
+        "name": "Polat",
+        "mean": "Türk kökenli olup 'demir' anlamına gelir ve güçlülüğü, dayanıklılığı temsil eder."
+      },
+      {
+        "id": 20,
+        "name": "Sami",
+        "mean": "Arapça kökenli olup 'yüksek, ulu' anlamına gelir. İleri görüşlülüğü ve yüksek idealleri simgeler."
+      },
+      {
+        "id": 21,
+        "name": "Taner",
+        "mean": "Türk kökenli olup 'şafak eri, tan vakti doğan' anlamına gelir. Yenilik ve başlangıçları temsil eder."
+      },
+      {
+        "id": 22,
+        "name": "Ufuk",
+        "mean": "Türk kökenli olup 'görüş sınırı' anlamına gelir ve geniş vizyonu, ufukları temsil eder."
+      },
+      {
+        "id": 23,
+        "name": "Volkan",
+        "mean": "Türk kökenli olup 'ateş püsküren dağ' anlamına gelir. Tutkulu ve enerjik bir doğayı simgeler."
+      },
+      {
+        "id": 24,
+        "name": "Yakup",
+        "mean": "Arapça kökenli olup 'topuk tutan' anlamına gelir ve sebat etme, direnç gösterme özelliklerini simgeler."
+      },
+      {
+        "id": 25,
+        "name": "Zafer",
+        "mean": "Arapça kökenli olup 'zafer, başarı' anlamına gelir. Başarıyı ve üstünlüğü temsil eder."
+      },
+      {
+        "id": 26,
+        "name": "Adem",
+        "mean": "Arapça kökenli ve 'insan' anlamına gelir, insanlığı ve var oluşu temsil eder."
+      },
+      {
+        "id": 27,
+        "name": "Berk",
+        "mean": "Türk kökenli olup 'güçlü, kuvvetli' anlamına gelir. Asalet ve gücü temsil eder."
+      },
+      {
+        "id": 28,
+        "name": "Canberk",
+        "mean": "Türk kökenli olup 'hayatı kuvvetli' anlamına gelir. Canlılık ve enerjiyi simgeler."
+      },
+      {
+        "id": 29,
+        "name": "Doruk",
+        "mean": "Türk kökenli olup 'en yüksek nokta' anlamına gelir. Yüksek hedefleri ve başarıyı temsil eder."
+      },
+      {
+        "id": 30,
+        "name": "Emir",
+        "mean": "Arapça kökenli olup 'buyruk, emir' anlamına gelir. Liderlik ve kararlılık özelliklerini simgeler."
+      },
+      {
+        "id": 31,
+        "name": "Faruk",
+        "mean": "Arapça kökenli olup 'doğru, dürüst' anlamına gelir. Dürüstlüğü ve adanmışlığı temsil eder."
+      },
+      {
+        "id": 32,
+        "name": "Gürkan",
+        "mean": "Türk kökenli olup 'güçlü ses' anlamına gelir. Kararlılık ve etkinliği simgeler."
+      },
+      {
+        "id": 33,
+        "name": "Hüseyin",
+        "mean": "Arapça kökenli olup 'güzel, iyiliksever' anlamına gelir. Zarafeti ve hoşgörüyü temsil eder."
+      },
+      {
+        "id": 34,
+        "name": "İlhan",
+        "mean": "Türk kökenli olup 'soylu soy, hanedan' anlamına gelir. Soyluluğu ve köklü geçmişi simgeler."
+      },
+      {
+        "id": 35,
+        "name": "Kadir",
+        "mean": "Arapça kökenli olup 'güçlü, kuvvetli' anlamına gelir. Kararlılık ve üstünlüğü temsil eder."
+      },
+      {
+        "id": 36,
+        "name": "Lütfü",
+        "mean": "Arapça kökenli olup 'iyilik, lütuf' anlamına gelir. Cömertliği ve merhameti temsil eder."
+      },
+      {
+        "id": 37,
+        "name": "Mert",
+        "mean": "Türk kökenli olup 'sadık, güvenilir' anlamına gelir. Güvenilirliği ve dürüstlüğü simgeler."
+      },
+      {
+        "id": 38,
+        "name": "Nihat",
+        "mean": "Arapça kökenli olup 'gayret, çalışkanlık' anlamına gelir. Çalışkanlığı ve azmi temsil eder."
+      },
+      {
+        "id": 39,
+        "name": "Onur",
+        "mean": "Türk kökenli olup 'şeref, haysiyet' anlamına gelir. Onur ve gururu simgeler."
+      },
+      {
+        "id": 40,
+        "name": "Poyraz",
+        "mean": "Türk kökenli olup 'kuzey rüzgarı' anlamına gelir. Hareketliliği ve dinamizmi temsil eder."
+      },
+      {
+        "id": 41,
+        "name": "Rüzgar",
+        "mean": "Türk kökenli olup 'rüzgar' anlamına gelir. Özgürlüğü ve değişkenliği simgeler."
+      },
+      {
+        "id": 42,
+        "name": "Serkan",
+        "mean": "Türk kökenli olup 'akıntı, yön' anlamına gelir. Yön gösterme ve liderlik özelliklerini temsil eder."
+      },
+      {
+        "id": 43,
+        "name": "Tarık",
+        "mean": "Arapça kökenli olup 'yol gösteren sabah yıldızı' anlamına gelir. Yönlendirme ve aydınlık temalarını işaret eder."
+      },
+      {
+        "id": 44,
+        "name": "Utku",
+        "mean": "Türk kökenli olup 'zafer' anlamına gelir. Başarıyı ve üstünlüğü temsil eder."
+      },
+      {
+        "id": 45,
+        "name": "Yiğit",
+        "mean": "Türk kökenli olup 'cesur, yiğit' anlamına gelir. Cesareti ve kahramanlığı simgeler."
+      },
+      {
+        "id": 46,
+        "name": "Zeki",
+        "mean": "Arapça kökenli olup 'akıllı, zeki' anlamına gelir. Zekayı ve zeka ile ilgili nitelikleri temsil eder."
+      },
+      {
+        "id": 47,
+        "name": "Ahmetcan",
+        "mean": "Ahmet ismiyle 'özgür, bağımsız' anlamına gelen 'can' kelimesinin birleşimidir. Özgürlüğü ve cesareti temsil eder."
+      },
+      {
+        "id": 48,
+        "name": "Canberk",
+        "mean": "Türkçe kökenli olup 'hayatı kuvvetli' anlamına gelir. Canlılık ve enerjiyi simgeler."
+      },
+      {
+        "id": 49,
+        "name": "Kuzey",
+        "mean": "Yön ismi olan Kuzey, kuzey yönünü işaret eder. Yönlendirme ve kararlılık temasını işaret eder."
+      },
+      {
+        "id": 50,
+        "name": "Yavuz",
+        "mean": "Türk kökenli olup 'çok güçlü, kuvvetli' anlamına gelir. Güçlülüğü ve kararlılığı simgeler."
+      }
+    ]
+  ]
+}
+
+

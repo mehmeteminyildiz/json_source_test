@@ -1,0 +1,258 @@
+{
+  "man": [
+    [
+      {
+        "id": 1,
+        "name": "Aiden",
+        "mean": "A Celtic name meaning 'little and fiery'. It often symbolizes energy and courage."
+      },
+      {
+        "id": 2,
+        "name": "Archer",
+        "mean": "Originally an English surname meaning 'bowman'. It signifies precision and readiness."
+      },
+      {
+        "id": 3,
+        "name": "Caleb",
+        "mean": "A Hebrew name meaning 'devotion to God'. It represents faithfulness and loyalty."
+      },
+      {
+        "id": 4,
+        "name": "Declan",
+        "mean": "An Irish name meaning 'man of prayer'. Often associated with spiritual strength and integrity."
+      },
+      {
+        "id": 5,
+        "name": "Elias",
+        "mean": "A derivative of Elijah, meaning 'Yahweh is God'. It is associated with spiritual strength and insight."
+      },
+      {
+        "id": 6,
+        "name": "Ethan",
+        "mean": "Of Hebrew origin meaning 'strong', 'firm'. It symbolizes endurance and longevity."
+      },
+      {
+        "id": 7,
+        "name": "Finn",
+        "mean": "An Irish name meaning 'fair'. It epitomizes purity and honesty."
+      },
+      {
+        "id": 8,
+        "name": "Gavin",
+        "mean": "Derived from the medieval name Gawain, meaning 'white hawk'. Symbolizes strength and vigilance."
+      },
+      {
+        "id": 9,
+        "name": "Jasper",
+        "mean": "A Persian name meaning 'treasurer'. It is often associated with wealth and wisdom."
+      },
+      {
+        "id": 10,
+        "name": "Kai",
+        "mean": "A name of multiple origins, commonly seen as Hawaiian for 'sea'. Symbolizes adventure and versatility."
+      },
+      {
+        "id": 11,
+        "name": "Leo",
+        "mean": "Latin for 'lion', a name that connotes bravery and leadership."
+      },
+      {
+        "id": 12,
+        "name": "Liam",
+        "mean": "A short form of William, meaning 'resolute protection'. It emphasizes strong will and protection."
+      },
+      {
+        "id": 13,
+        "name": "Miles",
+        "mean": "Originally a Latin name meaning 'soldier'. It also carries a connotation of mercy."
+      },
+      {
+        "id": 14,
+        "name": "Milo",
+        "mean": "Of Germanic origin meaning 'gracious' or 'soldier', representing nobility and bravery."
+      },
+      {
+        "id": 15,
+        "name": "Nolan",
+        "mean": "An Irish name meaning 'champion'. It symbolizes a winner or a noble."
+      },
+      {
+        "id": 16,
+        "name": "Oscar",
+        "mean": "Derived from Old English elements meaning 'god spear', 'deer-lover' or 'champion warrior', often associated with fighters."
+      },
+      {
+        "id": 17,
+        "name": "Quinn",
+        "mean": "Of Irish origin meaning 'wise', 'counsel'. It emphasizes intelligence and thoughtfulness."
+      },
+      {
+        "id": 18,
+        "name": "Riley",
+        "mean": "An old Irish name meaning 'valiant'. Riley embodies courage and bravery."
+      },
+      {
+        "id": 19,
+        "name": "Rowan",
+        "mean": "Originally a surname meaning 'little redhead'. Associated with strength and uniqueness."
+      },
+      {
+        "id": 20,
+        "name": "Silas",
+        "mean": "A Latin name meaning 'wood, forest'. It symbolizes someone deeply connected with nature and thought."
+      },
+      {
+        "id": 21,
+        "name": "Theo",
+        "mean": "Short for Theodore, meaning 'gift of God'. Often associated with divine blessings and goodness."
+      },
+      {
+        "id": 22,
+        "name": "Wyatt",
+        "mean": "An English name meaning 'brave in war'. Often connotes strong leadership and bravery."
+      },
+      {
+        "id": 23,
+        "name": "Xander",
+        "mean": "Short form of Alexander, meaning 'defender of the people'. Symbolizes strength and protectiveness."
+      },
+      {
+        "id": 24,
+        "name": "Zane",
+        "mean": "An American invention possibly a variant of John, meaning 'God is gracious'. It emphasizes a spiritual connection and generosity."
+      },
+      {
+        "id": 25,
+        "name": "Axel",
+        "mean": "Scandinavian form of Absalom, which means 'father of peace'. Represents peace and resolution."
+      },
+      {
+        "id": 26,
+        "name": "Felix",
+        "mean": "A Latin name meaning 'happy' or 'fortunate'. It symbolizes luck and happiness."
+      },
+      {
+        "id": 27,
+        "name": "Hugo",
+        "mean": "Of Germanic origin meaning 'mind', 'intellect'. It represents someone wise and thoughtful."
+      },
+      {
+        "id": 28,
+        "name": "Ivan",
+        "mean": "Russian form of John, meaning 'God is gracious'. Represents divine grace and kindness."
+      },
+      {
+        "id": 29,
+        "name": "Jude",
+        "mean": "A name of Hebrew origin meaning 'praise'. It conveys a sense of gratitude and reverence."
+      },
+      {
+        "id": 30,
+        "name": "Knox",
+        "mean": "Old English origin meaning 'round hill'. Symbolizes strength and stability."
+      },
+      {
+        "id": 31,
+        "name": "Lorenzo",
+        "mean": "Italian form of Lawrence, meaning 'from Laurentum'. Laurentum was a city noted for its laurel trees, symbolizing victory and honor."
+      },
+      {
+        "id": 32,
+        "name": "Matteo",
+        "mean": "Italian form of Matthew, meaning 'gift of God'. It emphasizes faith and blessings."
+      },
+      {
+        "id": 33,
+        "name": "Nico",
+        "mean": "Short form of Nicholas, meaning 'victory of the people'. Symbolizes success and leadership."
+      },
+      {
+        "id": 34,
+        "name": "Orion",
+        "mean": "Named after the hunter in Greek mythology, symbolizing bravery and pursuit."
+      },
+      {
+        "id": 35,
+        "name": "Paxton",
+        "mean": "Of Latin origin meaning 'peace town'. It symbolizes tranquility and a peaceful spirit."
+      },
+      {
+        "id": 36,
+        "name": "Quentin",
+        "mean": "Latin origin meaning 'fifth'. Traditionally given to the fifth child or born in the fifth month, representing uniqueness and rarity."
+      },
+      {
+        "id": 37,
+        "name": "Rafael",
+        "mean": "Of Hebrew origin meaning 'God has healed'. It signifies healing and divine intervention."
+      },
+      {
+        "id": 38,
+        "name": "Samson",
+        "mean": "A Hebrew name meaning 'sun'. Often associated with strength and power."
+      },
+      {
+        "id": 39,
+        "name": "Tobias",
+        "mean": "Hebrew origin meaning 'God is good'. It is often associated with goodness and faith."
+      },
+      {
+        "id": 40,
+        "name": "Ulysses",
+        "mean": "Latinized form of Odysseus, a hero in Greek mythology known for his intelligence and versatility."
+      },
+      {
+        "id": 41,
+        "name": "Victor",
+        "mean": "Latin for 'conqueror'. It symbolizes victory and triumph over challenges."
+      },
+      {
+        "id": 42,
+        "name": "Wesley",
+        "mean": "Old English origin meaning 'western meadow'. Symbolizes peace and nature."
+      },
+      {
+        "id": 43,
+        "name": "Xavier",
+        "mean": "Of Arabic origin meaning 'new house' or 'bright'. Represents brightness and new beginnings."
+      },
+      {
+        "id": 44,
+        "name": "York",
+        "mean": "Old English origin, from a city in England. Represents a long history and durability."
+      },
+      {
+        "id": 45,
+        "name": "Zachary",
+        "mean": "Of Hebrew origin meaning 'God has remembered'. Often associated with memory and spiritual connection."
+      },
+      {
+        "id": 46,
+        "name": "Avery",
+        "mean": "Originally an English surname meaning 'ruler of the elves'. It symbolizes leadership and mystique."
+      },
+      {
+        "id": 47,
+        "name": "Brady",
+        "mean": "Of Irish origin meaning 'spirited; broad'. Symbolizes energy and expanse."
+      },
+      {
+        "id": 48,
+        "name": "Carter",
+        "mean": "Originally an English surname meaning 'transporter of goods by cart'. Represents hard work and reliability."
+      },
+      {
+        "id": 49,
+        "name": "Dexter",
+        "mean": "Latin for 'right-handed', associated with skill and readiness."
+      },
+      {
+        "id": 50,
+        "name": "Elliott",
+        "mean": "Derived from Elijah, meaning 'Jehovah is God'. It symbolizes spiritual strength and faith."
+      }
+    ]
+  ]
+}
+
+

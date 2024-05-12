@@ -1,0 +1,258 @@
+{
+  "woman": [
+    [
+      {
+        "id": 1,
+        "name": "Aylin",
+        "mean": "Türk kökenli olup 'ay ışığı' anlamına gelir. Aydınlık ve güzelliği temsil eder."
+      },
+      {
+        "id": 2,
+        "name": "Belgin",
+        "mean": "Türkçe kökenli olup 'güzel ve ince' anlamına gelir. Zarafeti ve hoşgörüyü simgeler."
+      },
+      {
+        "id": 3,
+        "name": "Ceren",
+        "mean": "Türk kökenli olup 'güzellik, süs' anlamına gelir. Zarafet ve doğal güzelliği temsil eder."
+      },
+      {
+        "id": 4,
+        "name": "Deniz",
+        "mean": "Türk kökenli olup 'geniş, engin' anlamına gelir. Özgürlük ve sınırsızlığı ifade eder."
+      },
+      {
+        "id": 5,
+        "name": "Elif",
+        "mean": "Arapça kökenli olup 'ilk' anlamına gelir. Bilgelik ve başlangıçları temsil eder."
+      },
+      {
+        "id": 6,
+        "name": "Feride",
+        "mean": "Farsça kökenli olup 'benzersiz, eşsiz' anlamına gelir. Değer ve özel olmayı simgeler."
+      },
+      {
+        "id": 7,
+        "name": "Gizem",
+        "mean": "Türkçe kökenli olup 'anlaşılmayan, bilinmeyen' anlamına gelir. Esrarengizlik ve çekiciliği temsil eder."
+      },
+      {
+        "id": 8,
+        "name": "Hande",
+        "mean": "Farsça kökenli olup 'hassas, ince' anlamına gelir. Zarafeti ve kibarlığı simgeler."
+      },
+      {
+        "id": 9,
+        "name": "İrem",
+        "mean": "Arapça kökenli olup 'cennet bahçesi' anlamına gelir. Cennet ve mutluluğu temsil eder."
+      },
+      {
+        "id": 10,
+        "name": "Jale",
+        "mean": "Farsça kökenli olup 'güzellik, ihtişam' anlamına gelir. Görkemi ve parlaklığı temsil eder."
+      },
+      {
+        "id": 11,
+        "name": "Kader",
+        "mean": "Arapça kökenli olup 'kader, yazgı' anlamına gelir. Kaderi ve kaderin getirdiklerini temsil eder."
+      },
+      {
+        "id": 12,
+        "name": "Leyla",
+        "mean": "Arapça kökenli olup 'gece' anlamına gelir. Güzelliği ve gizemi simgeler."
+      },
+      {
+        "id": 13,
+        "name": "Merve",
+        "mean": "Arapça kökenli olup 'cennet bahçesi' anlamına gelir. Cennet ve huzuru temsil eder."
+      },
+      {
+        "id": 14,
+        "name": "Nergis",
+        "mean": "Farsça kökenli olup 'zambak' anlamına gelir. Zarafeti ve güzelliği temsil eder."
+      },
+      {
+        "id": 15,
+        "name": "Özge",
+        "mean": "Türk kökenli olup 'arka, geride kalan' anlamına gelir. Farklılık ve benzersizliği simgeler."
+      },
+      {
+        "id": 16,
+        "name": "Pınar",
+        "mean": "Türk kökenli olup 'akarsu, kaynak' anlamına gelir. Canlılık ve temizliği simgeler."
+      },
+      {
+        "id": 17,
+        "name": "Rüya",
+        "mean": "Arapça kökenli olup 'hayal' anlamına gelir. Hayal gücünü ve iyimserliği temsil eder."
+      },
+      {
+        "id": 18,
+        "name": "Selin",
+        "mean": "Türk kökenli olup 'sel, su bolluğu' anlamına gelir. Canlılık ve bolluğu simgeler."
+      },
+      {
+        "id": 19,
+        "name": "Tülin",
+        "mean": "Türk kökenli olup 'baş, tepe' anlamına gelir. Liderlik ve üstünlüğü temsil eder."
+      },
+      {
+        "id": 20,
+        "name": "Ümmü",
+        "mean": "Arapça kökenli olup 'anne' anlamına gelir. Anneliği ve koruyuculuğu temsil eder."
+      },
+      {
+        "id": 21,
+        "name": "Vildan",
+        "mean": "Farsça kökenli olup 'çağdaş, modern' anlamına gelir. Yeniliği ve modernliği temsil eder."
+      },
+      {
+        "id": 22,
+        "name": "Yasemin",
+        "mean": "Farsça kökenli olup 'güzel kokulu çiçek' anlamına gelir. Zarafeti ve güzelliği simgeler."
+      },
+      {
+        "id": 23,
+        "name": "Zehra",
+        "mean": "Arapça kökenli olup 'çiçek, güzel kokulu bitki' anlamına gelir. Zarafeti ve güzelliği temsil eder."
+      },
+      {
+        "id": 24,
+        "name": "Ada",
+        "mean": "Türk kökenli olup 'ada, küçük ada' anlamına gelir. Yalınlığı ve doğallığı simgeler."
+      },
+      {
+        "id": 25,
+        "name": "Begüm",
+        "mean": "Farsça kökenli olup 'hükümdar, hanım' anlamına gelir. Liderliği ve gücü temsil eder."
+      },
+      {
+        "id": 26,
+        "name": "Çiğdem",
+        "mean": "Türk kökenli olup 'ilk açan çiçek' anlamına gelir. Yeniliği ve başlangıcı simgeler."
+      },
+      {
+        "id": 27,
+        "name": "Derya",
+        "mean": "Türk kökenli olup 'deniz' anlamına gelir. Enginlik ve özgürlüğü temsil eder."
+      },
+      {
+        "id": 28,
+        "name": "Ebru",
+        "mean": "Türk kökenli olup 'bulut, nehir' anlamına gelir. Hareketliliği ve sürekliliği simgeler."
+      },
+      {
+        "id": 29,
+        "name": "Fulya",
+        "mean": "Farsça kökenli olup 'menekşe çiçeği' anlamına gelir. Zarafeti ve hassasiyeti temsil eder."
+      },
+      {
+        "id": 30,
+        "name": "Gülizar",
+        "mean": "Farsça kökenli olup 'gül gibi, güzel' anlamına gelir. Zarafeti ve güzelliği simgeler."
+      },
+      {
+        "id": 31,
+        "name": "Hale",
+        "mean": "Arapça kökenli olup 'süs, şıklık' anlamına gelir. Zarafeti ve kibarlığı temsil eder."
+      },
+      {
+        "id": 32,
+        "name": "İrem",
+        "mean": "Arapça kökenli olup 'cennet bahçesi' anlamına gelir. Cennet ve mutluluğu temsil eder."
+      },
+      {
+        "id": 33,
+        "name": "Jasmin",
+        "mean": "Farsça kökenli olup 'güzel kokulu çiçek' anlamına gelir. Zarafeti ve hoşgörüyü simgeler."
+      },
+      {
+        "id": 34,
+        "name": "Kamelya",
+        "mean": "Latince kökenli olup 'çiçek' anlamına gelir. Zarafeti ve güzelliği temsil eder."
+      },
+      {
+        "id": 35,
+        "name": "Lale",
+        "mean": "Farsça kökenli olup 'geniş yapraklı güzel çiçek' anlamına gelir. Zarafeti ve doğallığı simgeler."
+      },
+      {
+        "id": 36,
+        "name": "Melda",
+        "mean": "Türk kökenli olup 'hüzünlü, tatlı' anlamına gelir. Hassasiyeti ve zarafeti temsil eder."
+      },
+      {
+        "id": 37,
+        "name": "Narin",
+        "mean": "Farsça kökenli olup 'ince, kibar' anlamına gelir. Zarafeti ve kibarlığı temsil eder."
+      },
+      {
+        "id": 38,
+        "name": "Nihan",
+        "mean": "Farsça kökenli olup 'gizli, saklı' anlamına gelir. Gizemli ve çekici bir kişiliği temsil eder."
+      },
+      {
+        "id": 39,
+        "name": "Peri",
+        "mean": "Farsça kökenli olup 'peri, periliğe ait' anlamına gelir. Masumiyeti ve çekiciliği simgeler."
+      },
+      {
+        "id": 40,
+        "name": "Rana",
+        "mean": "Arapça kökenli olup 'hoş, güzel' anlamına gelir. Güzel ve zarif bir kişiliği temsil eder."
+      },
+      {
+        "id": 41,
+        "name": "Sedef",
+        "mean": "Türk kökenli olup 'deniz kabuğu' anlamına gelir. Zarafeti ve hassasiyeti temsil eder."
+      },
+      {
+        "id": 42,
+        "name": "Şebnem",
+        "mean": "Farsça kökenli olup 'sabah çiyi' anlamına gelir. Tazeliği ve doğallığı simgeler."
+      },
+      {
+        "id": 43,
+        "name": "Tansu",
+        "mean": "Türk kökenli olup 'şafak suyu' anlamına gelir. Yeniliği ve temizliği temsil eder."
+      },
+      {
+        "id": 44,
+        "name": "Umay",
+        "mean": "Türk kökenli olup 'tanrıça' anlamına gelir. Gücü ve güzelliği temsil eder."
+      },
+      {
+        "id": 45,
+        "name": "Vildan",
+        "mean": "Farsça kökenli olup 'çağdaş, modern' anlamına gelir. Yeniliği ve modernliği temsil eder."
+      },
+      {
+        "id": 46,
+        "name": "Yaprak",
+        "mean": "Türk kökenli olup 'bitki yaprağı' anlamına gelir. Doğallığı ve yeniliği simgeler."
+      },
+      {
+        "id": 47,
+        "name": "Zarife",
+        "mean": "Arapça kökenli olup 'zarif, nazik' anlamına gelir. Zarafeti ve kibarlığı temsil eder."
+      },
+      {
+        "id": 48,
+        "name": "Aslı",
+        "mean": "Türk kökenli olup 'temiz, saf' anlamına gelir. Saflığı ve doğallığı simgeler."
+      },
+      {
+        "id": 49,
+        "name": "Begüm",
+        "mean": "Farsça kökenli olup 'hükümdar, hanım' anlamına gelir. Liderliği ve gücü temsil eder."
+      },
+      {
+        "id": 50,
+        "name": "Defne",
+        "mean": "Antik Yunan kökenli olup 'baharat ağacı' anlamına gelir. Kokusu ve zarafeti temsil eder."
+      }
+    ]
+  ]
+}
+
+
