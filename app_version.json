@@ -1,7 +1,7 @@
 {
     "id": 1,
-    "description_as_html_en" : "Technical improvements implemented",
-    "description_as_html_tr" : "Teknik iyileştirmeler uygulandı",
+    "description_as_html_en" : "Technical improvements implemented.",
+    "description_as_html_tr" : "Teknik iyileştirmeler uygulandı.",
     "changes_as_html_en": "<ul><li>Android 14 update has been made.</li><li>Security-related improvements were made.</li><li>Bugs were fixed.</li></ul>",
     "changes_as_html_tr": "<ul><li>Android 14 güncellemesi yapıldı.</li><li>Güvenlik ile ilgili geliştirmeler yapıldı.</li><li>Hatalar giderildi.</li></ul>",
     "isRequired": true,
